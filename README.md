@@ -40,3 +40,6 @@ The final message deliberately says that the enquiry is **not a confirmed bookin
 ## Before using it for a real business
 
 Replace the placeholder CoolCare name, service area, hours and escalation contact. Add explicit consent before storing personal data. Decide when the bot should hand off to a human—for example, emergencies, unclear faults, commercial jobs, complaints, or requests for a firm quote.
+
+## THIS IS A VIBECODED APP, TO SEE PROJECTS MADE BY MADE, LEAVE THIS REPO
+
